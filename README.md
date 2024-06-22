@@ -1,4 +1,5 @@
 ## Welcome to my DUSTY PLACE🧹
+# Wishing you a wonderful dusty day
 
 <!--
 **BangGooseokMeonJi/BangGooseokMeonJi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
